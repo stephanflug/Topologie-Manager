@@ -14,6 +14,10 @@ Fokus: Segmentierung (BACnet/IP, MS/TP, Modbus, KNX, M-Bus …), Geräteverwaltu
 
 ---
 
+## Kontakt  
+Bei Fragen können Sie mich gerne per E-Mail erreichen:  
+📧 [steuerung@gmx.at](mailto:steuerung@gmx.at)
+
 ## Überblick
 
 **TopologieManager** ist ein Desktop-Tool zur Erstellung und Verwaltung von Netzwerktopologien in Anlagen der Gebäude-/Industrieautomation.
